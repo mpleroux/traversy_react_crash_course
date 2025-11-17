@@ -1,0 +1,18 @@
+total 296
+drwx------@  12 mike  staff     384 Nov  3 15:25 _theme_files
+drwxr-xr-x@  17 mike  staff     544 Nov  4 20:14 .
+drwxr-xr-x@  14 mike  staff     448 Nov  3 15:28 ..
+-rw-r--r--@   1 mike  staff    6148 Nov  4 20:07 .DS_Store
+-rw-r--r--    1 mike  staff     253 Nov  3 15:27 .gitignore
+drwxr-xr-x    3 mike  staff      96 Nov  4 20:07 .vscode
+-rw-r--r--    1 mike  staff       0 Nov  4 20:15 dir.out
+-rw-r--r--    1 mike  staff     763 Nov  3 15:27 eslint.config.js
+-rw-r--r--    1 mike  staff     359 Nov  4 02:19 index.html
+drwxr-xr-x  129 mike  staff    4128 Nov  4 19:56 node_modules
+-rw-r--r--    1 mike  staff  114564 Nov  4 19:56 package-lock.json
+-rw-r--r--    1 mike  staff     690 Nov  4 19:56 package.json
+drwxr-xr-x    3 mike  staff      96 Nov  3 15:27 public
+-rw-r--r--    1 mike  staff    1157 Nov  3 15:27 README_default.md
+-rw-r--r--    1 mike  staff    1132 Nov  4 19:32 README.md
+drwxr-xr-x    8 mike  staff     256 Nov  4 19:34 src
+-rw-r--r--    1 mike  staff     257 Nov  4 19:57 vite.config.js
