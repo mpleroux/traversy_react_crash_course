@@ -15,7 +15,7 @@ This tutorial was a good introduction to React and I found many similarities to 
 - JavaScript
 - Vite
 - Tailwind CSS 4
-- React 4
+- React 19
 - React Router DOM
 - JSON Server
 - React-Icons
