@@ -33,8 +33,6 @@ npm run dev
 
 ### Initial setup
 
-(copy sections into Notes- React.md)
-
 Create project:
 
 ```sh
