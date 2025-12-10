@@ -29,9 +29,7 @@ npm install
 npm run dev
 ```
 
-## Notes about tutorial
-
-### Initial setup
+## Initial setup
 
 Create project:
 
@@ -61,7 +59,7 @@ VSCode: Install "ES7+ React/Redux/React-Native snippets" extension
 
 - `rafce`: Starter JSX function
 
-### Tailwind v4 setup
+## Tailwind v4 setup
 
 `npm install tailwindcss @tailwindcss/vite`
 
