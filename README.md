@@ -26,7 +26,8 @@ This tutorial was a good introduction to React and I found many similarities to 
 
 ```sh
 npm install
-npm run dev
+npm run dev # run Vite frontend on http://localhost:3000
+npm run server # run JSON server on http://localhost:8000
 ```
 
 ## Initial setup
