@@ -64,7 +64,7 @@ VSCode: Install "ES7+ React/Redux/React-Native snippets" extension
 
 `npm install tailwindcss @tailwindcss/vite`
 
-Add `@tailwindcss/vite` plugin to Vite config:
+vite.config.ts: Add `@tailwindcss/vite` plugin:
 
 ```js
 import tailwindcss from '@tailwindcss/vite'
